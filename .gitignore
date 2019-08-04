@@ -116,3 +116,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# PyCharm
+.idea/
+
+audio.mp3
